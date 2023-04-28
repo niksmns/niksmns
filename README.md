@@ -1,6 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет! Рад вас видеть.
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!
 
-<p>Добро пожаловать на мою страницу! </br> Я Никита, аналитик данных</p>
+I'm a Data Analyst! 
+I like data analytics because it allows you to find hidden connections and patterns. Based on this knowledge, we can make more informed decisions in various areas, by the way, my favorite area is gamedev.
+
 <!--
 **niksmns/niksmns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
